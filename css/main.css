@@ -27,7 +27,7 @@ h1{
     margin: 3em auto;
     display: block;
     max-width: 90em;
-    background-image: url("https://agnosticagile.org/imgs/Background.png")
+    background-image: url("https://agnosticagile.org/imgs/Background.png");
 }
 .content{
     display: inline-block;

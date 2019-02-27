@@ -1,4 +1,4 @@
-## Bienvenido a Agilidad Agnóstica
+![Agnostic Agile logo](https://agnosticagile.org/imgs/Logo@2x.png) ## Bienvenido a Agilidad Agnóstica
 
 You can use the [editor on GitHub](https://github.com/marvlm/agnostic-agile-es/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

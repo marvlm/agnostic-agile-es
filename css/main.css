@@ -17,3 +17,6 @@ a {
 a:hover {
     color: #999
 }
+td {
+    margin-right: 20px;
+}

@@ -24,15 +24,13 @@ h1{
     font-family: 'bernadetteregular', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 .page-header{
+    margin: 3em auto;
+    display: block;
+    max-width: 90em;
     background-image: url("https://agnosticagile.org/imgs/Background.png")
 }
 .content{
     display: inline-block;
     width: 70%;
     margin-left: 3em;
-}
-.whatHeader {
-    margin: 3em auto;
-    display: block;
-    max-width: 90em;
 }

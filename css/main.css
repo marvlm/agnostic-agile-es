@@ -25,12 +25,6 @@ h1{
 }
 .page-header{
     background-image: url("https://agnosticagile.org/imgs/Background.png");
-    display: inline-block;
-    background-attachment: fixed;
-    height: auto;
-    align-content: center;
-    width: 100%;
-    padding: 3rem 3rem;
 }
 .content{
     display: inline-block;
@@ -40,6 +34,14 @@ h1{
 .contentHeader{
     display: block;
     max-width: 90em;
+}
+#WhatIs {
+    display: inline-block;
+    background-attachment: fixed;
+    height: auto;
+    color: white;
+    align-content: center;
+    width: 100%;
 }
 #WhatIs img {
     margin-left: 3em;

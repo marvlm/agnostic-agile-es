@@ -1,5 +1,11 @@
-![Agnostic Agile logo](https://agnosticagile.org/imgs/Logo@2x.png){: height="305px" width="208px"} 
 ## Bienvenido a Agilidad Agnóstica
+
+<table border="0">
+    <tr>
+        <td><img src="https://agnosticagile.org/imgs/Logo@2x.png" alt="Agnostic Agile logo" height="305" width="208"></td>
+      <td><h2 class="vicinity rich-diff-level-zero">Bienvenido a Agilidad Agnóstica</h2></td>
+    </tr>
+</table>
 
 You can use the [editor on GitHub](https://github.com/marvlm/agnostic-agile-es/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

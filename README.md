@@ -1,4 +1,4 @@
-## Bienvenido a Agilidad Agnóstica
+## ¿Qué es Agilidad Agnóstica?
 
 [//]: <> (As experienced agile practitioners and as people responsible for agile change and transformation, we should recognise the importance of being agnostic with agility at any level. This means one size does not fit all, one framework is not the answer, and the ‘what’ and ‘how’ should be suited to customer context and to a wider strategic vision.)
 Como practicantes experimentados de la agilidad y como personas responsables del cambio y la transformacion ágil, debemos reconocer la importancia de ser agnósticos con la agilidad en todos los niveles. Esto significa que no a todos le queda la misma talla, un sólo framework (marco de trabajo) no es la respuesta, y el ‘qué’ y el ‘cómo’ deben ser adecuados según el contexto de cada cliente y a una visión estratégica más amplia.

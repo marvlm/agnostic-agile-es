@@ -26,7 +26,13 @@ h1{
 .page-header{
     background-image: url("https://agnosticagile.org/imgs/Background.png")
 }
-table#space {
-  border-collapse: separate;
-  border-spacing: 30px 5px;
+.content{
+    display: inline-block;
+    width: 70%;
+    margin-left: 3em;
+}
+.whatHeader {
+    margin: 3em auto;
+    display: block;
+    max-width: 90em;
 }

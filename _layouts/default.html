@@ -23,7 +23,13 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: Bienvenido a Agilidad Agnóstica }}</h1>
+      <table border="0">
+          <tr>
+              <td><img src="https://agnosticagile.org/imgs/Logo@2x.png" alt="Agnostic Agile logo" height="305" width="208"></td>
+              <td><h1 class="project-name">{{ page.title | default: site.title | default: Bienvenido a Agilidad Agnóstica }}</h1></td>
+          </tr>
+      </table>
+      <!--<h1 class="project-name">{{ page.title | default: site.title | default: Bienvenido a Agilidad Agnóstica }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
@@ -31,7 +37,7 @@
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+      {% endif %} -->
     </header>
 
     <main id="content" class="main-content" role="main">

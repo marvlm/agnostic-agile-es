@@ -41,3 +41,14 @@ h1{
     display: block;
     max-width: 90em;
 }
+#WhatIs img {
+    margin-left: 3em;
+    width: 13em;
+    display: inline-block;
+    float: left;
+}
+#WhatIs .content {
+    display: inline-block;
+    width: 70%;
+    margin-left: 3em;
+}

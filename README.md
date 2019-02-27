@@ -17,7 +17,7 @@ Debemos tomar esto muy seriamente. Nuestro trabajo es ayudar a nuestros clientes
 Esto significa que como practicantes de la agilidad debemos esforzarnos para ser maestros de nuestro oficio, entender y practicar al menos dos métodos o marcos de trabajo establecidos, mantener una buena conducta entre nosotros y con otros, y ayudar a nutrir y crecer nuestra comunidad de practicantes de agilidad.
 
 [//]: <> (Agnostic Agile is a manifestation of these intentions, distilled succinctly into a set of principles.)
-Agilidad Agnóstica es la manifestación de éstas intenciones, presentado sucintamente en un conjunto de principios.
+Agilidad Agnóstica es la manifestación de éstas intenciones, presentada brevemente en un conjunto de principios.
 
 ### Markdown
 

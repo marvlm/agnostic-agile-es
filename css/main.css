@@ -20,3 +20,6 @@ a:hover {
 td {
     margin-right: 20px;
 }
+.page-header{
+    background-image: url("https://agnosticagile.org/imgs/Background.png")
+}

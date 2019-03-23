@@ -66,6 +66,12 @@ Respetaré el contexto único de mi cliente y me esforzaré para remover cualqui
 [//]: <> (I will gladly share my own knowledge and experiences honestly, with other fellow practitioners and framework custodians alike, helping to continuously improve our common lean and agile practices. This includes providing constructive feedback where and when appropriate in the most respectful way, so that all may benefit for the sake of learning and continuous improvement.)
 Compartiré con alegría y entusiasmo mis conocimientos y experiencias honestamente con otros compañeros agilistas, ayudando continuamente a mejorar nuestras prácticas comunes sobre lean y agilidad. Esto incluye proveer feedback constructivo donde y cuando sea apropiado de la forma más respetuosa posible, para que todos puedan beneficiarse del aprendizaje y la mejora continua. 
 
+[//]: <> (To respect frameworks and their practitioners.)
+**6. Respetar los diferentes marcos de trabajo y metodologías y a quienes los practican.**
+
+[//]: <> (I will respect frameworks and the value that they offer, and I will respect those that practice them, and those that have helped to create and improve them.)
+Respetaré los diferentes marcos de trabajo y metodologías y el valor que ofrecen, respetaré a aquellos que los practican y a aquellos que ayudaron a crearlos y mejorarlos.
+
 [//]: <> (Agnostic Agile)
 
 

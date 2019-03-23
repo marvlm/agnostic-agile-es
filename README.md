@@ -31,7 +31,24 @@ Cualquier persona puede firmar. Ya seas que practicas la agilidad de forma indep
 Soy un practicante de la Agilidad Agnóstica, me adapto y adapto la agilidad para y por mi cliente, aún cuando esto signifique mejorar o adaptar cualquier marco de trabajo existente en la medida que beneficie a mi cliente. Mi cliente puede ser la compañía para la que trabajo, el cliente (y/o) cliente final que está recibiendo mis servicios, o incluso otros practicantes de la agilidad con quién estoy colaborando.
 
 [//]: <> (I will strive to uphold proper ethics, conduct and respect between my fellow agile practitioners and framework enthusiasts, and to ensure that my customer is getting value no matter what vehicle is being used to deliver that value. I recognise that I should be a lifelong learner and commit to improvement both professionally and personally.)
-Me esforzaré por defender y mantener la conducta, respeto y ética apropiada entre mis compañeros practicantes y entusiastas de agilidad, y me aseguraré que mi cliente recibe valor sin importar el medio utilizado para entregar ese valor. Reconozco que debo ser una persona que aprende constantemente y me comprometo a mejorar constantemente tanto en lo profesional como en lo personal.
+Me esforzaré por defender y mantener la conducta, respeto y ética apropiada entre mis compañeros practicantes y entusiastas de agilidad, y me aseguraré que mi cliente recibe valor sin importar el medio utilizado para entregar ese valor. Reconozco que debo ser un estudiante de toda la vida comprometido a mejorar constantemente tanto en lo profesional como en lo personal.
+
+[//]: <> (I seek to uphold the following principles, to the best of my ability and judgment:)
+**Me propongo defender los siguientes principios, en la medida de mis capacidades y criterios:**
+
+[//]: <> (To put my customer first, making them independent.)
+**1. Poner a mi cliente primero, haciendolo también idependiente.**
+
+[//]: <> (I will put my customer’s interests first, because that is what I have been hired to do. I will help them deeply understand the agile mind-set, principles and values instead of just framework specifics. By doing this, I ‘teach them to fish’, and I empower them, moving them towards independence, instead of creating dependencies.)
+Pondré los intereses de mi cliente primero, ya que es la razón por la que he sido contratado. Le ayudaré a entender profundamente la mentalidad ágil, así como los principios y valores de la agilidad, en lugar de marcos de trabajos específicos. Haciendo esto, les 'enseño a pescar' y los empodero a moverse de forma independiente, en vez de crear dependencias.
+
+[//]: <> (To do my best, complementing theory with practical experience.)
+**2. Hacer lo mejor que pueda, complementando teoría con experiencia práctica.**
+
+[//]: <> (I will apply my best available knowledge and learning of lean and agile practices as my current abilities allow, such may come from my own experience or from any frameworks that best fit my customer’s needs and context. I will always seek to advise based on a healthy balance of theory and practical experience.)
+Aplicaré el mejor conocimiento disponible que tengo y el aprendizaje de prácticas lean y ágil que mis capacidades actuales me permiten, ya sea que las haya adquirido de mi propia experiencia o de cualquier marco de trabajo que mejor se aplique al contexto y necesidad de mi cliente. Siempre buscaré asesorar basado en un balance saludable entre teoría y experiencia práctica.
+
+[//]: <> (Agnostic Agile)
 
 ### Markdown
 

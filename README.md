@@ -24,7 +24,6 @@ Tu nombre y otros detalles (si los provees) son publicados en ésta página. Rec
 ### **Quién puede firmar?**
 Cualquier persona puede firmar. Ya seas que practicas la agilidad de forma independiente o si representas una compañía que quiere expresar su compromiso continuo de Agilidad Agnóstica. La opción de firmar es inclusiva y todos son bienvenidos.
 
-```markdown
 [//]: <> (Agnostic Agile)
 # Agilidad Agnóstica
 
@@ -57,7 +56,6 @@ Reconozco qué existe arte en nuestrs prácticas lean y de agilidad, que es guia
 
 [//]: <> (Agnostic Agile)
 
-```
 
 
 

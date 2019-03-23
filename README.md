@@ -96,6 +96,12 @@ Recordaré que logrando agilidad no se garantiza un mejor resultado para mi clie
 [//]: <> (I will not be dogmatic when it comes to lean or agile frameworks or methods, because dogmatism is non-agile, does not benefit my customer, my community or lend itself to continuously improving my own practice. It is therefore something I will relentlessly strive to remove myself from and avoid.)
 No ser dogmático cuando se trate de prácticas o métodos lean y ágil, porque el dogmatismo no es ágil, no beneficia a mi cliente, mi comunidad ni se presta para continuamente mejorar mi propia práctica. Es por lo tanto, algo de lo que me esforzaré por alejar y evitar.
 
+[//]: <> (To recognise that there is more to agile than agile.)
+**11. Reconocer que hay más en ágil que lo ágil.**
+
+[//]: <> (I recognise that the road to agility will sometimes itself need to be built in order that we may begin or continue our journey. Building this road can include practices such as people and organisational coaching, the application of lean thinking, and organisational change management. I therefore seek to learn and master all that is required for making the road to agility, a safe one.)
+Reconocer que el camino hacia la agilidad algunas veces necesita construirse para que podamos comenzar o continuar nuestro viaje. Construir el camino puede incluir prácticas como coaching de personas y organizaciones, aplicación de pensamiento lean y cambio de la gestión organizacional. Por lo tanto perseguiré el aprender y dominar todo lo que sea necesario para hacer del camino hacia la agilidad un camino seguro.
+
 [//]: <> (Agnostic Agile)
 
 

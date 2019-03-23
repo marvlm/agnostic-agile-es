@@ -102,6 +102,12 @@ No ser dogmático cuando se trate de prácticas o métodos lean y ágil, porque 
 [//]: <> (I recognise that the road to agility will sometimes itself need to be built in order that we may begin or continue our journey. Building this road can include practices such as people and organisational coaching, the application of lean thinking, and organisational change management. I therefore seek to learn and master all that is required for making the road to agility, a safe one.)
 Reconocer que el camino hacia la agilidad algunas veces necesita construirse para que podamos comenzar o continuar nuestro viaje. Construir el camino puede incluir prácticas como coaching de personas y organizaciones, aplicación de pensamiento lean y cambio de la gestión organizacional. Por lo tanto perseguiré el aprender y dominar todo lo que sea necesario para hacer del camino hacia la agilidad un camino seguro.
 
+[//]: <> (To give to the community as it has given to me.)
+**12. Dar a la comunidad de la misma forma que se me ha dado a mí.**
+
+[//]: <> (I will remember that I am a member of a lean and agile community of practitioners. I will strive to help improve my community and learn from it as it may learn from me, as doing so will ultimately be of benefit to both lean and agile practitioners and customers everywhere.)
+Recordaré que yo soy miembro de una comunidad de profesionales que practican lean y ágil. Me esforzaré en ayudar a mejorar mi comunidad y aprender de ella así como ella puede aprender de mí, ya que  al hacerlo, en última instancia será beneficioso para los practicantes y clientes ágiles de todo el mundo.  
+
 [//]: <> (Agnostic Agile)
 
 

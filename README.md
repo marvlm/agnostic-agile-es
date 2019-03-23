@@ -24,6 +24,7 @@ Tu nombre y otros detalles (si los provees) son publicados en ésta página. Rec
 ### **Quién puede firmar?**
 Cualquier persona puede firmar. Ya seas que practicas la agilidad de forma independiente o si representas una compañía que quiere expresar su compromiso continuo de Agilidad Agnóstica. La opción de firmar es inclusiva y todos son bienvenidos.
 
+```markdown
 [//]: <> (Agnostic Agile)
 # Agilidad Agnóstica
 
@@ -56,34 +57,4 @@ Reconozco qué existe arte en nuestrs prácticas lean y de agilidad, que es guia
 
 [//]: <> (Agnostic Agile)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marvlm/agnostic-agile-es/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -18,7 +18,7 @@ Al firmar, estás reconociendo la importancia de un entendimiento agnóstico de 
 
 [//]: <> (What happens after you sign? Your name and other details -if provided- will be published on this page. You will receive the Agnostic Agile badge to freely use -without modification-. You will join a growing and rewarding professional community)
 ### **Qué pasa después que firmas?**
-Tu nombre y otros detalles (si los provees) son publicados en ésta página. Recibirás el recnocimiento como practicante de la Agilidad Agnóstica que podrás utilizar (sin modificación alguna). Formarás parte de una valiosa y creciente comunidad de profesionales
+Tu nombre y otros detalles (si los provees) son publicados en ésta página. Recibirás en tu e-mail el reconocimiento como practicante de la Agilidad Agnóstica que podrás utilizar (sin modificación alguna). Formarás parte de una valiosa y creciente comunidad de profesionales
 
 [//]: <> (Who can sign? Anybody can sign. You may be an individual practitioner or a company wanting to express your ongoing commitment to agnostic agility. Signing is inclusive, and all are welcome)
 ### **Quién puede firmar?**

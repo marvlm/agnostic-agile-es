@@ -60,6 +60,12 @@ Reconozco qué existe arte en nuestrs prácticas lean y de agilidad, que es guia
 [//]: <> (I will respect the unique context of my customer, and strive to remove any constraints that hinder agility, in the best way that I know how.)
 Respetaré el contexto único de mi cliente y me esforzaré para remover cualquier impedimento que obstaculice la agilidad de la mejor forma en que mi conocimiento me lo permita.
 
+[//]: <> (To share, learn and improve.)
+**5. Compartir, aprender y mejorar**
+
+[//]: <> (I will gladly share my own knowledge and experiences honestly, with other fellow practitioners and framework custodians alike, helping to continuously improve our common lean and agile practices. This includes providing constructive feedback where and when appropriate in the most respectful way, so that all may benefit for the sake of learning and continuous improvement.)
+Compartiré con alegría y entusiasmo mis conocimientos y experiencias honestamente con otros compañeros agilistas, ayudando continuamente a mejorar nuestras prácticas comunes sobre lean y agilidad. Esto incluye proveer feedback constructivo donde y cuando sea apropiado de la forma más respetuosa posible, para que todos puedan beneficiarse del aprendizaje y la mejora continua. 
+
 [//]: <> (Agnostic Agile)
 
 

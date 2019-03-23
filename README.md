@@ -12,6 +12,18 @@ Esto significa que como practicantes de la agilidad debemos esforzarnos para ser
 [//]: <> (Agnostic Agile is a manifestation of these intentions, distilled succinctly into a set of principles.)
 Agilidad Agnóstica es la manifestación de éstas intenciones, presentada brevemente en un conjunto de principios.
 
+[//]: <> (Why is signing important? By signing, you are acknowledging the importance of an agnostic understanding of agility, and its many colourful implementations)
+**Porqué es importante firmar?**
+Al firmar, estás reconociendo la importancia de un entendimiento agnóstico de la agilidad y sus posibles y coloridas implementaciones.
+
+[//]: <> (What happens after you sign? Your name and other details -if provided- will be published on this page. You will receive the Agnostic Agile badge to freely use -without modification-. You will join a growing and rewarding professional community)
+**Qué pasa después que firmas?**
+Tu nombre y otros detalles (si los provees) son publicados en ésta página. Recibirás el recnocimiento como practicante de la Agilidad Agnóstica que podrás utilizar (sin modificación alguna). Formarás parte de una valiosa y creciente comunidad de profesionales
+
+[//]: <> (Who can sign? Anybody can sign. You may be an individual practitioner or a company wanting to express your ongoing commitment to agnostic agility. Signing is inclusive, and all are welcome)
+**Quién puede firmar?**
+Cualquier persona puede firmar. Ya seas que practicas la agilidad de forma independiente o si representas una compañía que quiere expresar su compromiso continuo de Agilidad Agnóstica. La opción de firmar es inclusiva y todos son bienvenidos.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

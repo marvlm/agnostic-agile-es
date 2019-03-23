@@ -79,10 +79,16 @@ Respetaré los diferentes marcos de trabajo y metodologías y el valor que ofrec
 En los momentos que sienta que un problema o experimente un reto que este más allá de mi conocimiento actual y mi capacidad de enfrentarlo, sin importar lo pequeño o grande que sea, admitiré con corage que "No se" y me comprometeré a preguntar a mis compañeros agilistas por ayuda y guía si las competecias y experiencias de ellos beneficiaran a mi cliente.
 
 [//]: <> (To never mislead and to never misrepresent.)
-**8. A nunca engañar ni tergiversar**
+**8. A nunca engañar ni tergiversar.**
 
 [//]: <> (I will never mislead by stating that I know something when I do not, and I will never misrepresent or hide any options or choices that could otherwise benefit my customer.)
 Nunca engañaré diciendo que sé de algo cuando no es así y nunca tergiversaré o esconderé opciones que podrían beneficiar a mi cliente.
+
+[//]: <> (To remember that agility is not the end goal.)
+**9. Recordar que agilidad no es el objetivo final.**
+
+[//]: <> (I will remember that attaining agility does not guarantee a better outcome for my customer, and that in some cases, other more traditional approaches might be better for the current climate and context.)
+Recordaré que logrando agilidad no se garantiza un mejor resultado para mi cliente y que en algunos casos enfoques más tradicionales podrían beneficiar mejor dado el clima y contexto actual.
 
 [//]: <> (Agnostic Agile)
 

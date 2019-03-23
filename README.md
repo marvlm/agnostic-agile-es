@@ -78,6 +78,12 @@ Respetaré los diferentes marcos de trabajo y metodologías y el valor que ofrec
 [//]: <> (At times when I feel that a problem or challenge may be beyond my current knowledge or ability to overcome, no matter how small or how big, I will courageously admit that “I do not know,” and I will commit to asking my fellow practitioners for help and guidance if the skills or experience of another will benefit my customer.)
 En los momentos que sienta que un problema o experimente un reto que este más allá de mi conocimiento actual y mi capacidad de enfrentarlo, sin importar lo pequeño o grande que sea, admitiré con corage que "No se" y me comprometeré a preguntar a mis compañeros agilistas por ayuda y guía si las competecias y experiencias de ellos beneficiaran a mi cliente.
 
+[//]: <> (To never mislead and to never misrepresent.)
+**8. A nunca engañar ni tergiversar**
+
+[//]: <> (I will never mislead by stating that I know something when I do not, and I will never misrepresent or hide any options or choices that could otherwise benefit my customer.)
+Nunca engañaré diciendo que sé de algo cuando no es así y nunca tergiversaré o esconderé opciones que podrían beneficiar a mi cliente.
+
 [//]: <> (Agnostic Agile)
 
 

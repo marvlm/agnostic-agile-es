@@ -90,6 +90,12 @@ Nunca engañaré diciendo que sé de algo cuando no es así y nunca tergiversar�
 [//]: <> (I will remember that attaining agility does not guarantee a better outcome for my customer, and that in some cases, other more traditional approaches might be better for the current climate and context.)
 Recordaré que logrando agilidad no se garantiza un mejor resultado para mi cliente y que en algunos casos enfoques más tradicionales podrían beneficiar mejor dado el clima y contexto actual.
 
+[//]: <> (To acknowledge that dogmatism is non-agile.)
+**10. Reconocer que el dogmatismo no es ágil.**
+
+[//]: <> (I will not be dogmatic when it comes to lean or agile frameworks or methods, because dogmatism is non-agile, does not benefit my customer, my community or lend itself to continuously improving my own practice. It is therefore something I will relentlessly strive to remove myself from and avoid.)
+No ser dogmático cuando se trate de prácticas o métodos lean y ágil, porque el dogmatismo no es ágil, no beneficia a mi cliente, mi comunidad ni se presta para continuamente mejorar mi propia práctica. Es por lo tanto, algo de lo que me esforzaré por alejar y evitar.
+
 [//]: <> (Agnostic Agile)
 
 

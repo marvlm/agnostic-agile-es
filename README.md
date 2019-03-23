@@ -13,16 +13,25 @@ Esto significa que como practicantes de la agilidad debemos esforzarnos para ser
 Agilidad Agnóstica es la manifestación de éstas intenciones, presentada brevemente en un conjunto de principios.
 
 [//]: <> (Why is signing important? By signing, you are acknowledging the importance of an agnostic understanding of agility, and its many colourful implementations)
-**Porqué es importante firmar?**
+###**Porqué es importante firmar?**
 Al firmar, estás reconociendo la importancia de un entendimiento agnóstico de la agilidad y sus posibles y coloridas implementaciones.
 
 [//]: <> (What happens after you sign? Your name and other details -if provided- will be published on this page. You will receive the Agnostic Agile badge to freely use -without modification-. You will join a growing and rewarding professional community)
-**Qué pasa después que firmas?**
+###**Qué pasa después que firmas?**
 Tu nombre y otros detalles (si los provees) son publicados en ésta página. Recibirás el recnocimiento como practicante de la Agilidad Agnóstica que podrás utilizar (sin modificación alguna). Formarás parte de una valiosa y creciente comunidad de profesionales
 
 [//]: <> (Who can sign? Anybody can sign. You may be an individual practitioner or a company wanting to express your ongoing commitment to agnostic agility. Signing is inclusive, and all are welcome)
-**Quién puede firmar?**
+###**Quién puede firmar?**
 Cualquier persona puede firmar. Ya seas que practicas la agilidad de forma independiente o si representas una compañía que quiere expresar su compromiso continuo de Agilidad Agnóstica. La opción de firmar es inclusiva y todos son bienvenidos.
+
+[//]: <> (Agnostic Agile)
+#Agilidad Agnóstica
+
+[//]: <> (I am an Agnostic Agile Practitioner, I adapt and tailor agility to and for my customer, even if this means improving upon or tailoring any given framework to the degree that will benefit my customer. My customer may be the company that I work for, the client -and/or- end client that is receiving my services, or even other agile practitioners with whom I am working.)
+Soy un practicante de la Agilidad Agnóstica, me adapto y adapto la agilidad para y por mi cliente, aún cuando esto signifique mejorar o adaptar cualquier marco de trabajo existente en la medida que beneficie a mi cliente. Mi cliente puede ser la compañía para la que trabajo, el cliente (y/o) cliente final que está recibiendo mis servicios, o incluso otros practicantes de la agilidad con quién estoy colaborando.
+
+[//]: <> (I will strive to uphold proper ethics, conduct and respect between my fellow agile practitioners and framework enthusiasts, and to ensure that my customer is getting value no matter what vehicle is being used to deliver that value. I recognise that I should be a lifelong learner and commit to improvement both professionally and personally.)
+Me esforzaré por defender y mantener la conducta, respeto y ética apropiada entre mis compañeros practicantes y entusiastas de agilidad, y me aseguraré que mi cliente recibe valor sin importar el medio utilizado para entregar ese valor. Reconozco que debo ser una persona que aprende constantemente y me comprometo a mejorar constantemente tanto en lo profesional como en lo personal.
 
 ### Markdown
 

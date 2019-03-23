@@ -49,10 +49,16 @@ Pondré los intereses de mi cliente primero, ya que es la razón por la que he s
 Aplicaré el mejor conocimiento disponible que tengo y el aprendizaje de prácticas lean y ágil que mis capacidades actuales me permiten, ya sea que las haya adquirido de mi propia experiencia o de cualquier marco de trabajo que mejor se aplique al contexto y necesidad de mi cliente. Siempre buscaré asesorar basado en un balance saludable entre teoría y experiencia práctica.
 
 [//]: <> (To tailor agility to context.)
-**3. Adaptar la agilidad al contexto**
+**3. Adaptar la agilidad al contexto.**
 
 [//]: <> (I recognise that there is art to our lean and agile practice, that it is driven by empirical evidences, and that emotional intelligence, understanding of customer context, and customer maturity levels may outweigh the adoption of any -aspect of a- method or framework, even though that -aspect of a- method or framework might be the more ‘agile thing to do’. I ‘pull in’ what the customer needs, rather than ‘push’ what may not be needed.)
 Reconozco qué existe arte en nuestrs prácticas lean y de agilidad, que es guiado por evidencias empíricas y que la inteligencia emocional, el entendimiento del contexto de mi cliente, y el nivel de madurez de mi cliente puede superar la adopción de cualquier (aspecto de) metodología o marco de trabajo, aún si la metodología o el marco de trabajo podría ser la 'cosa más ágil de hacer'. Me concentro en lo que el cliente necesita, en vez de presionar por cosas que puede no ser necesario.
+
+[//]: <> (To understand hindering constraints and work to remove them.)
+**4. Entender los obstáculos e impedimentos y trabajar para removerlos.**
+
+[//]: <> (I will respect the unique context of my customer, and strive to remove any constraints that hinder agility, in the best way that I know how.)
+Respetaré el contexto único de mi cliente y me esforzaré para remover cualquier impedimento que obstaculice la agilidad de la mejor forma en que mi conocimiento me lo permita.
 
 [//]: <> (Agnostic Agile)
 

@@ -57,4 +57,7 @@ Reconozco qué existe arte en nuestrs prácticas lean y de agilidad, que es guia
 
 [//]: <> (Agnostic Agile)
 
+```
+
+
 
